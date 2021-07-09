@@ -1,8 +1,5 @@
 [
   {
-    "email": "varvaralipunova@gmail.com"
-  },
-  {
     "email": "v@gmail.com",
     "password": "pass",
     "id": "6175b7d0"
@@ -11,5 +8,10 @@
     "email": "ukraine@test.com",
     "password": "f8aa87acb6e0b824107014f22156ff37a2c68b05979b90fc66b4f813de0164b991a633f0f88ab3c3800e056261e4cd741fc1c848d1b0dcdf72f11046b296a5c1.370f0a30aaabb896",
     "id": "cc6e5a15"
+  },
+  {
+    "email": "varvara.lipunova@jobeasy.co",
+    "password": "0a053b1a0c44f248d5f9e0a7798856a1386aaa10aa74f79d832b8c3b91e3ebe9fd2f51a70d86da138c00a0088d3a8e2fcb2aca67002bdc5766ef54862bdf99e7.788ee564f74efc6b",
+    "id": "7acce919"
   }
 ]
